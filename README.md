@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aishuarya
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on NodeJS projects
+- 💞️ I’m looking to collaborate on Java Spring Boot projects
+
