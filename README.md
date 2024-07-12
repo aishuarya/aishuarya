@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">- 👋 Hi, I’m @aishuarya<br>- 👀 I’m interested in Software Development<br>- 🌱 I’m currently learning working as a Senior Engineer<br>- 💞️ I’m looking to collaborate on Java,Node js projects</p>
 
 ###
 
