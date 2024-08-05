@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m @aishuarya<br>- 👀 I’m interested in Software Development<br>- 🌱 I’m currently  working as a Senior Engineer<br>- 💞️ I’m looking to collaborate on Java,Node js projects</p>
+<p align="left">- 👋 Hi, I’m @aishuarya<br>- 👀 I’m interested in Software Development<br>- 🌱 I’m currently  working as a Senior Engineer<br>- 💞️ I work to be a better developer Today than yesterday ,everyday</p>
 
 ###
 
