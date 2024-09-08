@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aishuarya/aishuarya/output/snake.svg" alt="Snake animation" />
+
 
 ###
